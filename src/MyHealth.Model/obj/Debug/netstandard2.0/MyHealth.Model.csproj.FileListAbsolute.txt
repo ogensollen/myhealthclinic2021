@@ -1,0 +1,9 @@
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/bin/Debug/netstandard2.0/MyHealth.Model.deps.json
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/bin/Debug/netstandard2.0/MyHealth.Model.dll
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/bin/Debug/netstandard2.0/MyHealth.Model.pdb
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/Debug/netstandard2.0/MyHealth.Model.csproj.AssemblyReference.cache
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/Debug/netstandard2.0/MyHealth.Model.AssemblyInfoInputs.cache
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/Debug/netstandard2.0/MyHealth.Model.AssemblyInfo.cs
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/Debug/netstandard2.0/MyHealth.Model.csproj.CoreCompileInputs.cache
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/Debug/netstandard2.0/MyHealth.Model.dll
+/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/Debug/netstandard2.0/MyHealth.Model.pdb

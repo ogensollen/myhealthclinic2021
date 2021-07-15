@@ -1,0 +1,306 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/alfredobenaute/work/docker/Docker/test/MyHealth.API.IntegrationTests/MyHealth.API.IntegrationTests.csproj": {}
+  },
+  "projects": {
+    "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj",
+        "projectName": "MyHealth.API",
+        "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj",
+        "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
+        "outputPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alfredobenaute/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {
+              "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj": {
+                "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj"
+              },
+              "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj": {
+                "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ],
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj",
+        "projectName": "MyHealth.Data",
+        "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj",
+        "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
+        "outputPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alfredobenaute/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {
+              "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj": {
+                "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.Configuration.UserSecrets": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ],
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj",
+        "projectName": "MyHealth.Model",
+        "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj",
+        "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
+        "outputPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/alfredobenaute/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard1.6"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard1.6": {
+            "targetAlias": "netstandard1.6",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard1.6": {
+          "targetAlias": "netstandard1.6",
+          "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "NETStandard.Library": {
+              "target": "Package",
+              "version": "[1.6.0, )",
+              "autoReferenced": true
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[9.0.1, )"
+            }
+          },
+          "imports": [
+            "dnxcore50"
+          ],
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/alfredobenaute/work/docker/Docker/test/MyHealth.API.IntegrationTests/MyHealth.API.IntegrationTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/alfredobenaute/work/docker/Docker/test/MyHealth.API.IntegrationTests/MyHealth.API.IntegrationTests.csproj",
+        "projectName": "MyHealth.API.IntegrationTests",
+        "projectPath": "/Users/alfredobenaute/work/docker/Docker/test/MyHealth.API.IntegrationTests/MyHealth.API.IntegrationTests.csproj",
+        "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
+        "outputPath": "/Users/alfredobenaute/work/docker/Docker/test/MyHealth.API.IntegrationTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/alfredobenaute/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.0": {
+            "targetAlias": "netcoreapp1.0",
+            "projectReferences": {
+              "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj": {
+                "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.0": {
+          "targetAlias": "netcoreapp1.0",
+          "dependencies": {
+            "Acheve.AspNetCore.TestHost.Security": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[4.4.0, )"
+            },
+            "Microsoft.AspNetCore.Diagnostics": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.AspNetCore.TestHost": {
+              "target": "Package",
+              "version": "[1.0.2, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[1.0.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[15.0.0-preview-20170106-08, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.0.4, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "dotnet56",
+            "portable-net45+win8"
+          ],
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
