@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/xoJeqe6G4YeXwabTcbvN5NJxLPcdvllzu0QtPlBuR3GnZ6dsbZppu3IXJTGMHLhTE7jI1eAL3ZMtYSSbDBYJg==",
+  "dgSpecHash": "Ybu5tRDbDruBOJiJS5vegSedz7Wy+9SxroVPMUDJkkweawKzBzqlMTE1nejXW3JtjTY27HRAaKgmxjp9NNPJpA==",
   "success": true,
-  "projectFilePath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj",
+  "projectFilePath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj",
   "expectedPackageFiles": [
     "/Users/alfredobenaute/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",
     "/Users/alfredobenaute/.nuget/packages/microsoft.aspnetcore.authentication.abstractions/2.2.0/microsoft.aspnetcore.authentication.abstractions.2.2.0.nupkg.sha512",

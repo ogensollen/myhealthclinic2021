@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "MkF8sfUEGB5LBPdeFYlGEg3DY++JvtccO1m3bxWTzNCc2fzMemr6bFZaVAI7hkHRIvCJbg8AIvbZd1N36u4D6w==",
+  "dgSpecHash": "qGp79I3P/ZLeX2cHHQTVSB9fDSPRE/ydfc0PpiCFCFO4wZZtir11F3i07CF+Fy5cjkqIeqVGonRpTa6c9Yu2aQ==",
   "success": true,
-  "projectFilePath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj",
+  "projectFilePath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj",
   "expectedPackageFiles": [
     "/Users/alfredobenaute/.nuget/packages/microsoft.aspnetcore.cryptography.internal/5.0.8/microsoft.aspnetcore.cryptography.internal.5.0.8.nupkg.sha512",
     "/Users/alfredobenaute/.nuget/packages/microsoft.aspnetcore.cryptography.keyderivation/5.0.8/microsoft.aspnetcore.cryptography.keyderivation.5.0.8.nupkg.sha512",

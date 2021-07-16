@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "o53gz6pK++Yz1OhYzE2d1G6cT+5El3WYTascmp5JuUPYu1yOEei9vkHF8OZS2lXEKpTUKkF+dw37gQ55jdWtlg==",
+  "dgSpecHash": "ej8SLMIJcor+p0GwGgUPHmUpzrjUVU+OuFxI8ZODcp/2So+GJWzoB1RwR8K2XksZWXjM7gAB5nCGYEGnvnN4DA==",
   "success": true,
-  "projectFilePath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj",
+  "projectFilePath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.API/MyHealth.API.csproj",
   "expectedPackageFiles": [
     "/Users/alfredobenaute/.nuget/packages/microsoft.aspnetcore.antiforgery/2.2.0/microsoft.aspnetcore.antiforgery.2.2.0.nupkg.sha512",
     "/Users/alfredobenaute/.nuget/packages/microsoft.aspnetcore.authentication/2.2.0/microsoft.aspnetcore.authentication.2.2.0.nupkg.sha512",

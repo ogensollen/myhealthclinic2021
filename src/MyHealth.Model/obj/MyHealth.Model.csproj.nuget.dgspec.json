@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj": {}
+    "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj": {}
   },
   "projects": {
-    "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj": {
+    "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj",
+        "projectUniqueName": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj",
         "projectName": "MyHealth.Model",
-        "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj",
+        "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj",
         "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
-        "outputPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/obj/",
+        "outputPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/obj/",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"

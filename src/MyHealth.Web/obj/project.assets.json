@@ -11055,11 +11055,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Web/MyHealth.Web.csproj",
+      "projectUniqueName": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Web/MyHealth.Web.csproj",
       "projectName": "MyHealth.Web",
-      "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Web/MyHealth.Web.csproj",
+      "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Web/MyHealth.Web.csproj",
       "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
-      "outputPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Web/obj/",
+      "outputPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Web/obj/",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
@@ -11077,14 +11077,14 @@
         "net5.0": {
           "targetAlias": "net5.0",
           "projectReferences": {
-            "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj": {
-              "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.API/MyHealth.API.csproj"
+            "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.API/MyHealth.API.csproj": {
+              "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.API/MyHealth.API.csproj"
             },
-            "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj": {
-              "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Data/MyHealth.Data.csproj"
+            "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj": {
+              "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj"
             },
-            "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj": {
-              "projectPath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Model/MyHealth.Model.csproj"
+            "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj": {
+              "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj"
             }
           }
         }

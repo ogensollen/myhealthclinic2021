@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Ndk8Td9RDqabZjVOdMJ13kHGRlvr/33YtOwQjr2+j7OFGNs39xGo8CkbbKo0OuQ6hAuLm0jBVaGa5FCGHFcUsA==",
+  "dgSpecHash": "YPoNFRjC2quF23Y3RPkwTZGk8O6bSTcaVue0S81kJjoeXKUdDZCdle9L6mss0s33wre7xcMKKw1TvBQtv5K6Nw==",
   "success": true,
-  "projectFilePath": "/Users/alfredobenaute/work/docker/Docker/src/MyHealth.Web/MyHealth.Web.csproj",
+  "projectFilePath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Web/MyHealth.Web.csproj",
   "expectedPackageFiles": [
     "/Users/alfredobenaute/.nuget/packages/microsoft.applicationinsights/2.17.0/microsoft.applicationinsights.2.17.0.nupkg.sha512",
     "/Users/alfredobenaute/.nuget/packages/microsoft.applicationinsights.aspnetcore/2.17.0/microsoft.applicationinsights.aspnetcore.2.17.0.nupkg.sha512",
