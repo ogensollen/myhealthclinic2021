@@ -1,0 +1,9 @@
+/src/src/MyHealth.Model/bin/Release/netstandard2.1/MyHealth.Model.deps.json
+/src/src/MyHealth.Model/bin/Release/netstandard2.1/MyHealth.Model.dll
+/src/src/MyHealth.Model/bin/Release/netstandard2.1/MyHealth.Model.pdb
+/src/src/MyHealth.Model/obj/Release/netstandard2.1/MyHealth.Model.csprojAssemblyReference.cache
+/src/src/MyHealth.Model/obj/Release/netstandard2.1/MyHealth.Model.AssemblyInfoInputs.cache
+/src/src/MyHealth.Model/obj/Release/netstandard2.1/MyHealth.Model.AssemblyInfo.cs
+/src/src/MyHealth.Model/obj/Release/netstandard2.1/MyHealth.Model.csproj.CoreCompileInputs.cache
+/src/src/MyHealth.Model/obj/Release/netstandard2.1/MyHealth.Model.dll
+/src/src/MyHealth.Model/obj/Release/netstandard2.1/MyHealth.Model.pdb

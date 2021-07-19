@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{65AD5495-55A0-4A3C-BB51-BFEE9799E31A}|Default">
   <MonoDevelop.Ide.ItemProperties.src.MyHealth.Web PreferredExecutionTarget="/Applications/Google Chrome.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="src/MyHealth.Web/Dockerfile">
+  <MonoDevelop.Ide.Workbench ActiveDocument="docker-compose.ci.build.yml">
     <Files>
-      <File FileName="docker-compose.yml" Line="7" Column="16" />
-      <File FileName="docker-compose.ci.build.yml" Line="1" Column="1" />
-      <File FileName="src/MyHealth.Web/Dockerfile" Line="10" Column="13" />
+      <File FileName="docker-compose.yml" Line="9" Column="1" />
+      <File FileName="docker-compose.ci.build.yml" Line="10" Column="1" />
+      <File FileName="src/MyHealth.Web/Dockerfile" Line="14" Column="37" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="MHC_ASPNetCore" expanded="True">
-            <Node name="Solution Items" expanded="True" />
-            <Node name="src" expanded="True">
-              <Node name="MyHealth.Web" expanded="True">
-                <Node name="Dockerfile" selected="True" />
-              </Node>
+            <Node name="Solution Items" expanded="True">
+              <Node name="/Users/alfredobenaute/work/docker/myhealthclinic2021/docker-compose.ci.build.yml" selected="True" />
             </Node>
+            <Node name="src" expanded="True" />
           </Node>
         </State>
       </Pad>

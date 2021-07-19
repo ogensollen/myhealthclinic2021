@@ -1,0 +1,14 @@
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.API.deps.json
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.API.dll
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.API.pdb
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.Data.dll
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.Model.dll
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.Data.pdb
+/src/src/MyHealth.API/bin/Release/netstandard2.1/MyHealth.Model.pdb
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.csprojAssemblyReference.cache
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.AssemblyInfoInputs.cache
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.AssemblyInfo.cs
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.csproj.CoreCompileInputs.cache
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.csproj.CopyComplete
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.dll
+/src/src/MyHealth.API/obj/Release/netstandard2.1/MyHealth.API.pdb

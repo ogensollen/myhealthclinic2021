@@ -1,0 +1,12 @@
+/src/src/MyHealth.Data/bin/Release/netstandard2.1/MyHealth.Data.deps.json
+/src/src/MyHealth.Data/bin/Release/netstandard2.1/MyHealth.Data.dll
+/src/src/MyHealth.Data/bin/Release/netstandard2.1/MyHealth.Data.pdb
+/src/src/MyHealth.Data/bin/Release/netstandard2.1/MyHealth.Model.dll
+/src/src/MyHealth.Data/bin/Release/netstandard2.1/MyHealth.Model.pdb
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.csprojAssemblyReference.cache
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.AssemblyInfoInputs.cache
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.AssemblyInfo.cs
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.csproj.CoreCompileInputs.cache
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.csproj.CopyComplete
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.dll
+/src/src/MyHealth.Data/obj/Release/netstandard2.1/MyHealth.Data.pdb

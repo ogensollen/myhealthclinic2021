@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj": {}
+    "/src/src/MyHealth.Data/MyHealth.Data.csproj": {}
   },
   "projects": {
-    "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj": {
+    "/src/src/MyHealth.Data/MyHealth.Data.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj",
+        "projectUniqueName": "/src/src/MyHealth.Data/MyHealth.Data.csproj",
         "projectName": "MyHealth.Data",
-        "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/MyHealth.Data.csproj",
-        "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
-        "outputPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Data/obj/",
+        "projectPath": "/src/src/MyHealth.Data/MyHealth.Data.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/src/src/MyHealth.Data/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/alfredobenaute/.config/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -29,8 +26,8 @@
           "netstandard2.1": {
             "targetAlias": "netstandard2.1",
             "projectReferences": {
-              "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj": {
-                "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj"
+              "/src/src/MyHealth.Model/MyHealth.Model.csproj": {
+                "projectPath": "/src/src/MyHealth.Model/MyHealth.Model.csproj"
               }
             }
           }
@@ -97,24 +94,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj": {
+    "/src/src/MyHealth.Model/MyHealth.Model.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj",
+        "projectUniqueName": "/src/src/MyHealth.Model/MyHealth.Model.csproj",
         "projectName": "MyHealth.Model",
-        "projectPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/MyHealth.Model.csproj",
-        "packagesPath": "/Users/alfredobenaute/.nuget/packages/",
-        "outputPath": "/Users/alfredobenaute/work/docker/myhealthclinic2021/src/MyHealth.Model/obj/",
+        "projectPath": "/src/src/MyHealth.Model/MyHealth.Model.csproj",
+        "packagesPath": "/root/.nuget/packages/",
+        "outputPath": "/src/src/MyHealth.Model/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/alfredobenaute/.config/NuGet/NuGet.Config"
+          "/root/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netstandard2.1"
@@ -166,7 +160,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.301/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/5.0.202/RuntimeIdentifierGraph.json"
         }
       }
     }
