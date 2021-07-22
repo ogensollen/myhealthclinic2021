@@ -56,7 +56,7 @@ spec:
     spec:
       containers:
       - name: mhc-front
-        image: az400m16acr2259710881/myhealth.web:latest
+        image: az400m16acr3128325287/myhealth.web:latest
         imagePullPolicy: Always
         ports:
         - containerPort: 80
